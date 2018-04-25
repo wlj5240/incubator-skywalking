@@ -31,7 +31,7 @@ Query trace by some conditions.
 Query alarm info.
 
 ## Version
-v1alpha1
+v1beta
 
 ### Versioning
 Use URI Versioning, to follow the most straightforward approach, 
